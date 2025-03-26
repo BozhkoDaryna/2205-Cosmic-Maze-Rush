@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f832290967324f03b8cdd3404245ab3f, type: 3}
+  m_Name: AudioConfig
+  m_EditorClassIdentifier: 
+  Audio:
+  - Id: OpenPopup
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0e197b153187c3143a5cc002be6a239d, type: 3}
+  - Id: OpenScreenSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0e197b153187c3143a5cc002be6a239d, type: 3}
+  - Id: CloseScreenSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0e197b153187c3143a5cc002be6a239d, type: 3}
+  - Id: ClosePopupSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 0e197b153187c3143a5cc002be6a239d, type: 3}
+  - Id: PressActiveButtonSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 356c255892589bf44ad11b7ea580782b, type: 3}
+  - Id: PressNotActiveButtonSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 356c255892589bf44ad11b7ea580782b, type: 3}
+  - Id: PressButtonSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 356c255892589bf44ad11b7ea580782b, type: 3}
+  - Id: Music
+    AudioType: 0
+    Clip: {fileID: 8300000, guid: 67baf0de74417f544bcb161911467a6c, type: 3}
+  - Id: GameMusic
+    AudioType: 0
+    Clip: {fileID: 8300000, guid: 5625d7f5aefb9f649a5d91ea6ed3af9f, type: 3}
+  - Id: DisplaySound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: c8719e5aafb7690479e2b6ec92362fb3, type: 3}
+  - Id: VictorySound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: fdcc6707f95c80a40817bc148101748f, type: 3}
+  - Id: LoseSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 1149d68341ed4de4198821b3020d32e4, type: 3}
+  - Id: TorchBreakingSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 3a8906afd2f8c394d8a55c628ffab0ac, type: 3}
+  - Id: FlameDangerSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 96dc0ed7927a36d42a34aca6fce1946b, type: 3}
+  - Id: FlameBurningSound
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: d424a8552ef9ceb4eaa0a760b569db77, type: 3}
+  - Id: FootStepSound_0
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: 028d639d3605f894fab63adf0d4d99cb, type: 3}
+  - Id: FootStepSound_1
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: b32c82e205d74924894f10d453dd5666, type: 3}
+  - Id: FootStepSound_2
+    AudioType: 1
+    Clip: {fileID: 8300000, guid: c37a2dbf3b4201042b8835990174563d, type: 3}
