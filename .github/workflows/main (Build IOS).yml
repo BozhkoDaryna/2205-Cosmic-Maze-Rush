@@ -128,4 +128,4 @@ jobs:
         if: always()
         uses: geekyeggo/delete-artifact@v2
         with:
-          name: build-iOS
+          name: Build-iOS
