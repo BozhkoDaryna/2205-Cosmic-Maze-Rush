@@ -124,8 +124,8 @@ jobs:
       ####################################
       #  Cleanup to avoid storage limit  #
       ####################################
-      - name: Cleanup to avoid storage limit
-        if: always()
-        uses: geekyeggo/delete-artifact@v2
-        with:
-          name: Build-iOS
+      #- name: Cleanup to avoid storage limit
+      #  if: always()
+      #  uses: geekyeggo/delete-artifact@v2
+      #  with:
+      #    name: Build-iOS
