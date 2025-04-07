@@ -110,7 +110,7 @@ jobs:
 
           IOS_BUILD_PATH: ${{ format('{0}/build/iOS', github.workspace) }}
           IOS_BUNDLE_ID: com.bozhkolabpuzzle.app
-          APP_VERSION: "1.0.1"
+          APP_VERSION: "1.0.2"
           PROJECT_NAME: Cosmic Maze Rush
         run: |
           eval "$(ssh-agent -s)"
