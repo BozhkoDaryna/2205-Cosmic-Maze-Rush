@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "315755797665",
+    "project_id": "iosor-8",
+    "storage_bucket": "iosor-8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315755797665:ios:0b00854a85df6d8e8064e0",
+        "android_client_info": {
+          "package_name": "com.bozhkolabpuzzle.app"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwGkZKG8MmBEKd6FMYw0usXIvVpazCEQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

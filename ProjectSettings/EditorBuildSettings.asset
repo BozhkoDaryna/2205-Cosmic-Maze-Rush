@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Octopus/SceneLoaderCore/Example/Scenes/InitScene.unity
+    guid: e0f478970481158438860e5f12e06a4c
+  - enabled: 1
+    path: Assets/Octopus/SceneLoaderCore/Example/Scenes/Preloader.unity
+    guid: 884e48c4e9ec07d4887d3151a7d3e46a
+  - enabled: 1
+    path: Assets/Octopus/SceneLoaderCore/Example/Scenes/Webview.unity
+    guid: 004c45169b284ed4c96a82c45e971f63
+  - enabled: 1
     path: Assets/Scenes/Initial.unity
     guid: 29642dc984a81144f949f211de5f1ca3
   m_configObjects:

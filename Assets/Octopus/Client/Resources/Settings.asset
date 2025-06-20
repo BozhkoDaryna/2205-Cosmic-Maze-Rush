@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd00f84340efaba429b2bd02633be7a0, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  AttributionUrl: astronautsescape.live/allgamestats.json/
+  GadIdKey: ir6gi4uhi0a8q
+  ReferrerKey: 0z563a17tx915nw
+  ExtraParam1: a4uo1y3hhn
+  ExtraParam2: cks89dzo6ljtasyw8f3
+  ExtraParam3: xcm9ih06wsix2
+  ExtraParam4: orvp1trkudj
+  ExtraParam5: ab9drhjlqed
+  ExtraParam7: b2eh3tt7eth08r
+  ExtraParam8: v2ortqzmd7yfdk39
+  ExtraParam9: bqbmzuuncqw6
+  PushNotificationTag: ho4k4n9vo2zkqu4aa
+  CustomUserAgent: galtgagibbgue
+  FcmTokenKey: f9t5jkarec
+  PushNotificationApiUrl: coremi.life/0lhf0mo6cz/
+  PushNotificationApiGadidKey: 3gulj6p0zc
+  PushNotificationApiFcmTokenKey: cielmkpqzz
+  PushNotificationApiPushTagKey: whgqmtsvgf
+  PostbackApiUrl: coremi.life/ex2wnima34/
+  PostbackTrackingIdKey: hn4b96el3h
+  PostbackFcmTokenKey: 7232k3wvy5
+  isDebug: 0
+  apiVersion: 1010
+  codeVersion: LDI_APPS
+  useMocInstallReferrer: 0
+  mocInstallReferrer: 
